@@ -1,7 +1,7 @@
 White Email.
 
 Excel data extraction for send specify messages from txt file via email. It save all emails from excel (Excel col named Email) and asociate it to another variables inside the file.
-Can send to all saved emails or manual introduction. Proven on Windows no Mac.
+Can send to all saved emails or manual introduction. Proven on Windows.
 
 --------------------------------------------------------
 For install:
