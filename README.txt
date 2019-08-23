@@ -5,7 +5,7 @@ Can send to all saved emails or manual introduction. Proven on Windows because o
 
 --------------------------------------------------------
 For install:
-	sudo git-clone 
+	sudo git-clone https://github.com/Sebaspasker/whiteHunter.git
 
 For usage:
 	python whiteEmail.py
