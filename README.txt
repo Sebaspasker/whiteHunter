@@ -4,11 +4,12 @@ Excel data extraction for send specify messages from txt file via email. It save
 Can send to all saved emails or manual introduction. Proven on Windows, no Mac or Linux.
 
 --------------------------------------------------------
-For install:
-	sudo git-clone https://github.com/Sebaspasker/whiteHunter.git
 
-For usage:
+Usage:
+	gitclone https://github.com/Sebaspasker/whiteHunter.git	
+	cd whiteHunter
 	python whiteEmail.py
+
 --------------------------------------------------------
 
 Direct terminal commands:
