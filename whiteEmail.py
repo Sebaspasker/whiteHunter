@@ -67,6 +67,7 @@ def excelAndTextSave(txtFile = None, exclFile = None):
     if exclFile == None:
         exclFile = input("Introduce excel file:")
     USER.createMessages(txtFile, exclFile)
+    
 firstEntrance = True
 Entrance = False
 firstValue = False
