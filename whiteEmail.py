@@ -102,7 +102,7 @@ for arg in sys.argv:
         Entrance = False
         raise Exception("ERROR:INCORRECT ENTRANCE PARAMETER %s"%(arg))
 
-if saveValueUser == True or saveValueMFK == True:
+if saveValueUser == True:
     raise Exception("ERROR:NOT ENOUGH VALUE INTRODUCTION")
 
 
