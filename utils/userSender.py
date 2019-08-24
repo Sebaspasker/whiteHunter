@@ -77,6 +77,7 @@ class userSender:
 
             else:
                 print("Can't send email with no message data")
+                time.sleep(1)
         else:
             if self.user_email == "":
                 print("ERROR:NO USER INTRODUCTION")
