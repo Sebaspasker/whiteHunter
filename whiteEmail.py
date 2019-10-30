@@ -67,7 +67,8 @@ def excelAndTextSave(txtFile = None, exclFile = None):
     if exclFile == None:
         exclFile = input("Introduce excel file:")
     USER.createMessages(txtFile, exclFile)
-    
+
+# Too much booleans values... I know
 firstEntrance = True
 Entrance = False
 firstValue = False
