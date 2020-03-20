@@ -37,4 +37,4 @@ Sebastian   | Pasker     | 10,00€  | sebaspssps@gmail.com	| www.hello.com
 Jose        | Velazquez  | 21,21€  | josevelz@gmail.com         | www.bye.com
 Alberto     | Gonzalez   | 112,00€ | albeergoonz@gmail.com      | www.goodnight.com
 
-Created with Python by Sebastian Pasker.
+Created by Sebastian Pasker.
